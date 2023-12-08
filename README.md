@@ -15,14 +15,14 @@ Story of the world:
     Pleiades boasts a rich narrative, dynamic gameplay, and visually stunning graphics that bring the magic of the medieval world to life. Will you rise to the challenge, master your chosen class, and become the savior of Pleiades? The fate of the realm rests in your hands.
 
 What has been done:
-    - Implemented ThirdPerson Movement with working camera and animations using both Blueprints and C++
-    - Began Implementing a AbilitySystem using GamplayAbilitySystem(GAS)
-    - Created three levels for the world of the game (Not in repository due to file size)
+    -> Implemented ThirdPerson Movement with working camera and animations using both Blueprints and C++
+    -> Began Implementing a AbilitySystem using GamplayAbilitySystem(GAS)
+    -> Created three levels for the world of the game (Not in repository due to file size)
 
 What needs to be done:
-    - Finish Ability System
-    - Jump Function and Animation
-    - Create first AI Monster
-    - Start Quest code for game (Travel to set location Quest and KillMonster quest)
+    -> Finish Ability System
+    -> Jump Function and Animation
+    -> Create first AI Monster
+    -> Start Quest code for game (Travel to set location Quest and KillMonster quest)
 
     
